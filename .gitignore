@@ -1,0 +1,6 @@
+__pycache__/
+token.json
+credentials.json
+config.ini
+*.csv
+*.xml
